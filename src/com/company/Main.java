@@ -10,6 +10,7 @@ public class Main {
         String answer = input.nextLine();
         if(answer.equals("1")) {
             Tic.main(args);
+            //This should connect to the others
         }
     }
 }
